@@ -1,1 +1,1 @@
-This is an empty readme
+This is a repository for a Bayesian Classifier created to classify comments on different websited with high traffic. 
